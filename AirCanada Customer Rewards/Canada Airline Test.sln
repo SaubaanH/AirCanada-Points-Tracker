@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canada Airline Test", "Canada Airline Test\Canada Airline Test.csproj", "{38147114-2027-40AD-A923-11B9244447F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38147114-2027-40AD-A923-11B9244447F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38147114-2027-40AD-A923-11B9244447F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38147114-2027-40AD-A923-11B9244447F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38147114-2027-40AD-A923-11B9244447F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A993C38-C837-451C-A18D-64FD4ADE5029}
+	EndGlobalSection
+EndGlobal
